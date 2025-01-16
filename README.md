@@ -1,5 +1,8 @@
+# MySQL Essentials
+Working with MySQL Server SQL (Structured Query Language)
+
 # Installing MySQL
-Refer to one my PDF files in the course contents for downloading and installing:
+Refer to my PDF files in the course contents for downloading and installing:
 - MySQL Workbench for Flask/Django Python development course or MySQL Relational DBMS course
 - XAMPP installation and PhpMyAdmin setup for PHP development course
 
@@ -52,3 +55,29 @@ Check the PDF files about MySQl CLI commands.
 
 ## Modifying Table Structure:
 We can use the command "ALTER TABLE" to do many things regarding the table structure but NOT the data inside our table
+
+---
+---
+# References, Resources, and Credits:
+- MySQL 8.4 Reference Manual:
+    https://dev.mysql.com/doc/refman/8.4/en/
+- MySQL Tutorial:
+    https://dev.mysql.com/doc/refman/8.4/en/tutorial.html
+- MySQL source code documentation:
+    https://dev.mysql.com/doc/dev/mysql-server/9.1.0/
+- W3Schools:
+    https://www.w3schools.com/MySQL/default.asp
+- TutorialsPoints:
+    https://www.tutorialspoint.com/mysql/index.htm
+- SQLServerCentral:
+    https://www.sqlservercentral.com/
+- Khan Academy:
+    https://www.khanacademy.org/computing/computer-programming/sql
+- Udemy Free MySQL Courses (Filter by Free):
+    https://www.udemy.com/courses/search/?lang=en&price=price-free&q=MySQL&sort=relevance&src=ukw
+- Codecademy - Learn SQL:
+    https://www.codecademy.com/learn/learn-sql
+- SQL and Databases - A Full Course for Beginners By Quincy Larson:
+    https://www.freecodecamp.org/news/sql-and-databases-full-course/
+- Stack Overflow Forms and Discussions:
+    https://stackoverflow.com/
